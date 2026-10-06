@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security issue
+    url: https://github.com/adarshzpatel/paca/security/advisories/new
+    about: Report security bugs privately, not as a public issue.
+  - name: herdr bug
+    url: https://herdr.dev
+    about: Problems in the herdr server or TUI belong with herdr.

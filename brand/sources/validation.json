@@ -1,0 +1,23 @@
+{
+  "passed": 174,
+  "contrast_ratios": {
+    "ink on lavender": 6.66,
+    "ink on mint": 11.13,
+    "cream on ink": 13.77,
+    "violet on paper": 6.3,
+    "muted on paper": 5.0,
+    "working on paper": 5.5,
+    "needsInput on paper": 5.03,
+    "done on paper": 5.48,
+    "error on paper": 5.2,
+    "darkWorking on ink": 7.17,
+    "darkNeedsInput on ink": 8.73,
+    "darkDone on ink": 8.77,
+    "darkError on ink": 7.42
+  },
+  "notes": [
+    "PDF pages rendered and visually reviewed.",
+    "Toolbar glyphs reviewed at actual small sizes.",
+    "Optional SwiftUI token file typechecked with swiftc."
+  ]
+}

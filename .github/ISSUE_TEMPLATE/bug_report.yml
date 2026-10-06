@@ -1,0 +1,44 @@
+name: Bug report
+description: Something in Paca doesn't work
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open a Claude pane
+        2. Split right with ⌘D
+        3. ...
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "15.5"
+    validations:
+      required: true
+  - type: input
+    id: herdr
+    attributes:
+      label: herdr version
+      description: Output of `herdr --version`
+    validations:
+      required: true
+  - type: input
+    id: paca
+    attributes:
+      label: Paca commit or version
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      description: Run with `PACA_DEBUG=1 scripts/run.sh` for a trace. Remove anything private first.

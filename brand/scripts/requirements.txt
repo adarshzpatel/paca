@@ -1,0 +1,5 @@
+fonttools>=4.50
+brotli>=1.1
+reportlab>=4
+pypdf>=5
+Pillow>=10

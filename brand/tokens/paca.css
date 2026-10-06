@@ -1,0 +1,40 @@
+@font-face { font-family: Manrope; src: url('../fonts/manrope/Manrope-Variable.woff2') format('woff2'); font-weight: 200 800; font-display: swap; }
+@font-face { font-family: 'IBM Plex Mono'; src: url('../fonts/ibm-plex-mono/IBMPlexMono-Regular.woff2') format('woff2'); font-weight: 400; font-display: swap; }
+@font-face { font-family: 'IBM Plex Mono'; src: url('../fonts/ibm-plex-mono/IBMPlexMono-Medium.woff2') format('woff2'); font-weight: 500; font-display: swap; }
+:root {
+  --paca-lavender: #b8a2e8;
+  --paca-mint: #cde4d6;
+  --paca-cream: #fff5de;
+  --paca-oat: #ead2b2;
+  --paca-ink: #28262e;
+  --paca-paper: #faf8f4;
+  --paca-violet: #69508f;
+  --paca-muted: #716879;
+  --paca-text: var(--paca-ink);
+  --paca-background: var(--paca-paper);
+  --paca-surface: #fff;
+  --paca-accent: var(--paca-violet);
+  --paca-border: #ddd7e4;
+  --paca-working: #285fcc;
+  --paca-needs-input: #94600e;
+  --paca-done: #237345;
+  --paca-error: #b83f37;
+  --paca-brand-font: Manrope, -apple-system, BlinkMacSystemFont, sans-serif;
+  --paca-ui-font: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --paca-mono-font: 'IBM Plex Mono', ui-monospace, monospace;
+  --paca-radius-small: 8px;
+  --paca-radius-card: 16px;
+  --paca-space-unit: 4px;
+}
+[data-paca-theme='dark'] {
+  --paca-text: #fff5de;
+  --paca-background: #201e25;
+  --paca-surface: #28262e;
+  --paca-muted: #bcb5c5;
+  --paca-accent: #b8a2e8;
+  --paca-border: #49424f;
+  --paca-working: #8cb4ff;
+  --paca-needs-input: #f0be6c;
+  --paca-done: #83d8a6;
+  --paca-error: #ff9c95;
+}

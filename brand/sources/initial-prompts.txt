@@ -1,0 +1,20 @@
+Paca mascot and app icon
+Generated with the built-in image_gen tool on 2026-10-03.
+Both PNG masters are 1254 x 1254 pixels. The mascot has an alpha background; the icon is opaque RGB. These are raster artwork masters, not vector files or a platform icon bundle.
+Visual references reviewed: https://herdr.dev and https://capy.ai
+
+Mascot prompt
+
+Use case: logo-brand.
+Asset type: primary transparent mascot logo for Paca, a GUI client for the Herdr developer agent runtime. Paca is named after an alpaca.
+Create one original, polished alpaca head-and-short-neck mascot logo designed to remain recognizable as a small desktop app icon. Friendly, calm, quietly capable personality. A compact, almost square composition with two clearly separated upright short spear-shaped alpaca ears with softly rounded ends, a distinctive soft wool forelock of three large rounded tufts, a broad fluffy head, a short rounded protruding muzzle, and a short neck ending in one clean rounded base. Front three-quarter view with both eyes visible. Use tiny solid dark oval eyes, a tiny dark nose, and one restrained curved mouth line. Characterful and charming but not babyish. Rounded thick consistent near-black ink outline, simple strong silhouette, large flat shapes, precise smooth curves like an expertly drawn vector logo. Warm ivory wool, a light oat muzzle, restrained soft lavender inside the ears. Limited flat colors. Deliberate asymmetry in the wool tuft gives the character individuality. The mark should feel designed for a serious developer tool with a friendly animal identity.
+Composition: single mascot centered, complete silhouette visible, occupies about 78 percent of the square canvas, comfortable transparent margins, no cropped ears or neck. Transparent alpha background, no colored tile.
+Constraints: just ONE mascot mark, no wordmark, no text, no letters, no typography, no board or multiple views. No laptop, no costume, no sunglasses, no code punctuation, no horn, no sheep ears, no rabbit face, no whiskers, no blush, no sparkles. No realistic fur, no texture, no gradients, no 3D, no shadows, no glow, no fine decorative strokes. Crisp edges. This is an original alpaca character, not a copy of Capy's capybara or Herdr's ram.
+
+App icon prompt
+
+Use case: logo-brand.
+Asset type: Paca desktop app icon, square master artwork.
+Input image: the existing Paca alpaca mascot logo is the exact character identity reference and edit target.
+Turn this mascot into one polished app icon. Preserve the reference alpaca's identity, exact face, forelock, upright ears, cream and oat colors, thick dark outline, and lavender inner ears. Keep the complete ears and neck visible. Place it centered within an opaque perfectly square canvas filled edge to edge with a single muted lavender color, approximately #B8A2E8. The mascot should occupy approximately 77 percent of the canvas height, with generous safe margins on every side for platform icon masking. Keep its aspect ratio. Use an entirely flat background with absolutely no grain, gradients, shadow, texture, border, rounded tile, padding outside the colored square, or mockup perspective. No text, no wordmark, no extra objects. Deliver exactly one full-bleed square app-icon asset.
+

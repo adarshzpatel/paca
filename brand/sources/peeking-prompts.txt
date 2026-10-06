@@ -1,0 +1,29 @@
+Paca peeking app icon variants
+Generated using the built-in image_gen tool on 2026-10-03.
+Reference image: ../paca-app-icon-lavender.png
+
+Variant 1
+
+Use case: logo-brand.
+Edit target: the supplied Paca alpaca app icon. Create variant 1, a centered bottom-edge peek.
+Preserve this same cream alpaca mascot identity, lavender inner ears, oat muzzle, dark rounded outlines, wool forelock, and gentle expression. Keep the flat lavender square background. Redesign the framing so it looks like Paca is peeking up into a window: the head is a little more compact, both ears remain entirely visible with comfortable margins, and the cream neck extends downward ALL THE WAY BEYOND THE BOTTOM EDGE of the square. The neck must be visibly cut off by the bottom canvas boundary; its two side outlines should exit through the bottom edge around x=35% and x=65%. There must be NO rounded neck base, NO horizontal bottom outline, and NO lavender gap underneath the character. Cream neck pixels must touch the exact bottom image edge. The square itself is the implied window; do not draw a literal window frame.
+Composition: large mascot head centered horizontally in the upper-middle of the square, ears start around 10% from the top, face around 53% height, neck continues to the bottom crop. The head should span roughly 65% of canvas width. Friendly, clear, professional app icon. Crisp simple flat vector-like shapes, solid colors, no textures or lighting.
+One square full-bleed opaque icon only. No text, no wordmark, no grid, no extra objects, no paws, no border, no drop shadow, no bevel.
+
+Variant 2
+
+Use case: logo-brand.
+Edit target: the supplied Paca alpaca mascot app icon. Create variant 2, a curious diagonal peek into the window.
+Preserve the exact recognizable character family: cream alpaca, oat round muzzle, lavender inside its two upright alpaca ears, chunky near-black round outlines, three-lobed wool forelock, tiny oval eyes and a restrained friendly smile.
+Recompose the character as if it is leaning into the square window from the LOWER RIGHT: neck comes in diagonally from outside the lower-right canvas, head tilted about 18 degrees toward the viewer's left with a curious expression, face near the center of the icon. The cream neck extends continuously out past BOTH the bottom edge and the right edge in the lower-right corner. This is a close crop. There is absolutely no rounded neck base or closed lower silhouette. The canvas crop is the implied window boundary. All of the head and both ears should remain clearly visible within the square, with at least 8 percent margin above the ear tips. Maintain a strong large silhouette and substantial empty background in the upper-left corner.
+Background: a solid pale mint #CDE4D6 edge to edge, for an alternative app-icon palette. Keep the lavender ear interiors and original ivory character colors. Flat vector-like illustration with smooth crisp shapes.
+Exactly one full-bleed square opaque icon. No literal window frame, no border, no rounded tile outside, no text, no lettering, no props, no paws, no extra characters, no shadow, no 3D, no grain, no gradient.
+
+Variant 3
+
+Use case: logo-brand.
+Edit target: supplied Paca alpaca app icon. Create variant 3, a relaxed straight-on peek in a dark window.
+Preserve the recognizable Paca design: warm cream wool, light oat muzzle, lavender inner ears, thick rounded dark outline, compact fluffy three-lobed forelock and two upright alpaca ears. Change the pose to a nearly frontal friendly face and the expression to calm, content, quietly amused: small half-lidded dark eyes and a tiny gentle smile, simple graphic shapes, no eyebrows or eyelashes. Not sad, bored or angry. Reduce excess tiny scallops in the wool for a stronger small-size silhouette.
+Frame as if Paca is looking through an app window: large head fills roughly 72 percent of square width. Ear tips have 8 percent clearance at top. Broad cream neck continues all the way to and BEYOND THE BOTTOM EDGE. Its left and right outlines exit at the exact bottom boundary, leaving the cream neck cropped open. There is NO visible rounded neck base, NO bottom outline connecting its sides, NO gap beneath it. Background fills the entire square with a solid warm dark charcoal #28262E, contrasting sharply with the cream alpaca. The square canvas boundary is the implied window, not a drawn frame. Keep head and ears fully visible.
+Single square opaque app icon. Flat vector-like clean graphic artwork, consistent thick contour, large uncomplicated shapes. No text, no lettering, no props, no paws, no border, no gradients, no 3D, no texture or noise, no glow, no shadow, no mockup.
+

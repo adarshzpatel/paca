@@ -1,0 +1,43 @@
+{
+  "name": "Paca brand kit",
+  "version": "1.0",
+  "date": "2026-10-03",
+  "product": "Native macOS client for Herdr",
+  "illustration": {
+    "tool": "Built-in image_gen",
+    "source_dimensions": [
+      1254,
+      1254
+    ],
+    "originals": "originals/",
+    "prompts": "sources/",
+    "note": "Raster character artwork; generated transparent peeking derivative may differ slightly from its icon reference."
+  },
+  "vector": {
+    "symbol": "Original optical alpaca drawing in scripts/prepare.py",
+    "wordmark": "Outlined Manrope 800; lowercase paca with custom tracking",
+    "hybrid_layouts": "Color logo and social SVGs embed PNG character artwork."
+  },
+  "font_sources": [
+    {
+      "family": "Manrope",
+      "source": "https://github.com/google/fonts/tree/main/ofl/manrope",
+      "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/Manrope%5Bwght%5D.ttf",
+      "license": "fonts/manrope/OFL.txt"
+    },
+    {
+      "family": "IBM Plex Mono",
+      "source": "https://github.com/google/fonts/tree/main/ofl/ibmplexmono",
+      "license": "fonts/ibm-plex-mono/OFL.txt"
+    }
+  ],
+  "references_reviewed": [
+    "https://herdr.dev",
+    "https://capy.ai"
+  ],
+  "project_basis": [
+    "../README.md",
+    "../Sources/Paca/Theme.swift"
+  ],
+  "integration": "Assets and optional tokens only; no app source modifications."
+}

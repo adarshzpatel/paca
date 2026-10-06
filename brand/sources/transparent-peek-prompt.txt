@@ -1,0 +1,6 @@
+Generated with built-in image_gen on 2026-10-03.
+
+Use case: background-extraction.
+Edit target: the supplied mint Paca peeking alpaca icon.
+Remove only the mint background, making it truly transparent. Preserve every aspect of the cream alpaca character: exact diagonal pose, face, ears, lavender ear centers, oat muzzle, dark contour, proportions and smooth edges. Keep the canvas square and preserve the original crop at the bottom and right image boundaries. Cream neck continues beyond the bottom-right corner exactly as in the original. Do not extend, close or round off the cut neck; preserve the open cropped neck at both edges. No text, no new objects, no palette or expression changes, no shadows. Deliver one transparent PNG of the same peeking alpaca for use on brand layouts.
+

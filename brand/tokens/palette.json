@@ -1,0 +1,19 @@
+{
+  "lavender": "#B8A2E8",
+  "mint": "#CDE4D6",
+  "cream": "#FFF5DE",
+  "oat": "#EAD2B2",
+  "ink": "#28262E",
+  "outline": "#241F1D",
+  "paper": "#FAF8F4",
+  "violet": "#69508F",
+  "muted": "#716879",
+  "working": "#285FCC",
+  "needsInput": "#94600E",
+  "done": "#237345",
+  "error": "#B83F37",
+  "darkWorking": "#8CB4FF",
+  "darkNeedsInput": "#F0BE6C",
+  "darkDone": "#83D8A6",
+  "darkError": "#FF9C95"
+}

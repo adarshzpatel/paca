@@ -1,0 +1,956 @@
+{
+  "name": "Paca brand kit",
+  "version": "1.0",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 5659,
+      "sha256": "310dfaae8aedf8fbf564ee0c448ae2a7622eb6fc075beeefdab3441b07e7efab"
+    },
+    {
+      "path": "START-HERE.html",
+      "bytes": 15499,
+      "sha256": "4a000af588740ef4e632c101369bb85b31b12f1c7e8b540f0acd32560cce31f4"
+    },
+    {
+      "path": "app-icons/Paca-charcoal.icns",
+      "bytes": 1486239,
+      "sha256": "b0e77e4b056ede86e77a9b1421c7b7caf66306d0c10b3bd5be69e45c4dad3efb"
+    },
+    {
+      "path": "app-icons/Paca-charcoal.iconset/icon_128x128.png",
+      "bytes": 11079,
+      "sha256": "bab038e38c3504e4447062e807681723f82e062e58e7a6afd9d8764587c5c2fe"
+    },
+    {
+      "path": "app-icons/Paca-charcoal.iconset/icon_128x128@2x.png",
+      "bytes": 41443,
+      "sha256": "68779884ae61f3e1c25f638154c3e70d48dc6d56f432c3cc9433f5e7a23ffcf7"
+    },
+    {
+      "path": "app-icons/Paca-charcoal.iconset/icon_16x16.png",
+      "bytes": 523,
+      "sha256": "a0cc8a1bb45d2c7581d1c6d2a377d7aaf747ba1ce042f8e72fc12d912b184570"
+    },
+    {
+      "path": "app-icons/Paca-charcoal.iconset/icon_16x16@2x.png",
+      "bytes": 1202,
+      "sha256": "dfe6e7264d06fd499b14b2787c0230964e9267145638509136ac1a6cde056e6e"
+    },
+    {
+      "path": "app-icons/Paca-charcoal.iconset/icon_256x256.png",
+      "bytes": 41443,
+      "sha256": "68779884ae61f3e1c25f638154c3e70d48dc6d56f432c3cc9433f5e7a23ffcf7"
+    },
+    {
+      "path": "app-icons/Paca-charcoal.iconset/icon_256x256@2x.png",
+      "bytes": 169814,
+      "sha256": "d73b7a6d6511bb4190633a559d0c98d4d599e16c5bde3a8c1c5b909a5e19504d"
+    },
+    {
+      "path": "app-icons/Paca-charcoal.iconset/icon_32x32.png",
+      "bytes": 1202,
+      "sha256": "dfe6e7264d06fd499b14b2787c0230964e9267145638509136ac1a6cde056e6e"
+    },
+    {
+      "path": "app-icons/Paca-charcoal.iconset/icon_32x32@2x.png",
+      "bytes": 3567,
+      "sha256": "89011f21e6f49a548ee44c9b1f814522a510d105fdc589aa1dc48c73c2d5c118"
+    },
+    {
+      "path": "app-icons/Paca-charcoal.iconset/icon_512x512.png",
+      "bytes": 169814,
+      "sha256": "d73b7a6d6511bb4190633a559d0c98d4d599e16c5bde3a8c1c5b909a5e19504d"
+    },
+    {
+      "path": "app-icons/Paca-charcoal.iconset/icon_512x512@2x.png",
+      "bytes": 645411,
+      "sha256": "865a6936f589ca97870f55e0c055df34deb361e69f18dc4d358d50efbb8741fc"
+    },
+    {
+      "path": "app-icons/Paca-lavender.icns",
+      "bytes": 1520398,
+      "sha256": "e96d6263faf63922e0c0adb90c5026ac57103467b9f7cf520b03e182c784f1e3"
+    },
+    {
+      "path": "app-icons/Paca-lavender.iconset/icon_128x128.png",
+      "bytes": 11161,
+      "sha256": "93daeff38e9cb4b860f554ba94d81a84cad975f4baadfb826337bd2edef57dcf"
+    },
+    {
+      "path": "app-icons/Paca-lavender.iconset/icon_128x128@2x.png",
+      "bytes": 44362,
+      "sha256": "e27a7b38405cf7c3f1069feb865e963ef06110ef342a540b0b6e429429a13d9f"
+    },
+    {
+      "path": "app-icons/Paca-lavender.iconset/icon_16x16.png",
+      "bytes": 476,
+      "sha256": "fa425548943c93c1f2bee758bc89f4bd47fac2d2cfcc48717464f68558997168"
+    },
+    {
+      "path": "app-icons/Paca-lavender.iconset/icon_16x16@2x.png",
+      "bytes": 1222,
+      "sha256": "702d6eb2bde67718a2890787f533aadd103fe59c114daae14829e75926dcddbf"
+    },
+    {
+      "path": "app-icons/Paca-lavender.iconset/icon_256x256.png",
+      "bytes": 44362,
+      "sha256": "e27a7b38405cf7c3f1069feb865e963ef06110ef342a540b0b6e429429a13d9f"
+    },
+    {
+      "path": "app-icons/Paca-lavender.iconset/icon_256x256@2x.png",
+      "bytes": 179546,
+      "sha256": "2d1b7fd99b4d2fe9d8f28d2bddbc5fb8781c7a8de3e85302243b6f1cf4b96162"
+    },
+    {
+      "path": "app-icons/Paca-lavender.iconset/icon_32x32.png",
+      "bytes": 1222,
+      "sha256": "702d6eb2bde67718a2890787f533aadd103fe59c114daae14829e75926dcddbf"
+    },
+    {
+      "path": "app-icons/Paca-lavender.iconset/icon_32x32@2x.png",
+      "bytes": 3713,
+      "sha256": "ebdafef087806229975dc2090c84d5cf42842a751d341c997a6041d1a44399d1"
+    },
+    {
+      "path": "app-icons/Paca-lavender.iconset/icon_512x512.png",
+      "bytes": 179546,
+      "sha256": "2d1b7fd99b4d2fe9d8f28d2bddbc5fb8781c7a8de3e85302243b6f1cf4b96162"
+    },
+    {
+      "path": "app-icons/Paca-lavender.iconset/icon_512x512@2x.png",
+      "bytes": 682115,
+      "sha256": "a89a015c2dc367ef243d2690c28aa4e5a6f9449e7bda22a0d49ba70ec8074e72"
+    },
+    {
+      "path": "app-icons/Paca-mint.icns",
+      "bytes": 1509604,
+      "sha256": "fc752f04fae172333f24888c44f7c7435289b727c253b9d4020a9d001a95e6f6"
+    },
+    {
+      "path": "app-icons/Paca-mint.iconset/icon_128x128.png",
+      "bytes": 10807,
+      "sha256": "3a020196f3348c8237b4b3382f38668cd83a2091f1da2ce03010b65a93b6c25f"
+    },
+    {
+      "path": "app-icons/Paca-mint.iconset/icon_128x128@2x.png",
+      "bytes": 42061,
+      "sha256": "13ec5d89473eeaeed23127881e8bfd0bf4168f4b963ea2eba1fb9c103d8a31b9"
+    },
+    {
+      "path": "app-icons/Paca-mint.iconset/icon_16x16.png",
+      "bytes": 462,
+      "sha256": "a4604eeb9e455c2df45cba46e6515bd50407681284d16af4beff9528e99209fe"
+    },
+    {
+      "path": "app-icons/Paca-mint.iconset/icon_16x16@2x.png",
+      "bytes": 1195,
+      "sha256": "5d5d3dda94c449dedb98efbc4f1131fc293ab5916e229435a5c48e8170803a93"
+    },
+    {
+      "path": "app-icons/Paca-mint.iconset/icon_256x256.png",
+      "bytes": 42061,
+      "sha256": "13ec5d89473eeaeed23127881e8bfd0bf4168f4b963ea2eba1fb9c103d8a31b9"
+    },
+    {
+      "path": "app-icons/Paca-mint.iconset/icon_256x256@2x.png",
+      "bytes": 173793,
+      "sha256": "956eff2f92abbfcc40ecf323e8f3fb839e88a0d1992235477ceff537ef970d69"
+    },
+    {
+      "path": "app-icons/Paca-mint.iconset/icon_32x32.png",
+      "bytes": 1195,
+      "sha256": "5d5d3dda94c449dedb98efbc4f1131fc293ab5916e229435a5c48e8170803a93"
+    },
+    {
+      "path": "app-icons/Paca-mint.iconset/icon_32x32@2x.png",
+      "bytes": 3630,
+      "sha256": "4a8bd4bade3bf8f0978633bd6305254aa0cc057129243fe49f029cbfc68a5721"
+    },
+    {
+      "path": "app-icons/Paca-mint.iconset/icon_512x512.png",
+      "bytes": 173793,
+      "sha256": "956eff2f92abbfcc40ecf323e8f3fb839e88a0d1992235477ceff537ef970d69"
+    },
+    {
+      "path": "app-icons/Paca-mint.iconset/icon_512x512@2x.png",
+      "bytes": 661527,
+      "sha256": "8b550466f12f635529ac2f1eccd6b655c921ea6dbfda51340ec588f8af06dd89"
+    },
+    {
+      "path": "app-icons/Paca.icns",
+      "bytes": 1388934,
+      "sha256": "4b6212ac7712ffcbcfb92cc4ced99aab9aa20b28e73a4de39f5bcdfa0ef2c075"
+    },
+    {
+      "path": "app-icons/PacaAssets.xcassets/AppIcon.appiconset/Contents.json",
+      "bytes": 1256,
+      "sha256": "996fc3cc4168abe099274bec0b73a62724cb43d82115f6b795c4c5c4e9eabf52"
+    },
+    {
+      "path": "app-icons/PacaAssets.xcassets/AppIcon.appiconset/icon_128x128.png",
+      "bytes": 11161,
+      "sha256": "93daeff38e9cb4b860f554ba94d81a84cad975f4baadfb826337bd2edef57dcf"
+    },
+    {
+      "path": "app-icons/PacaAssets.xcassets/AppIcon.appiconset/icon_128x128@2x.png",
+      "bytes": 44362,
+      "sha256": "e27a7b38405cf7c3f1069feb865e963ef06110ef342a540b0b6e429429a13d9f"
+    },
+    {
+      "path": "app-icons/PacaAssets.xcassets/AppIcon.appiconset/icon_16x16.png",
+      "bytes": 476,
+      "sha256": "fa425548943c93c1f2bee758bc89f4bd47fac2d2cfcc48717464f68558997168"
+    },
+    {
+      "path": "app-icons/PacaAssets.xcassets/AppIcon.appiconset/icon_16x16@2x.png",
+      "bytes": 1222,
+      "sha256": "702d6eb2bde67718a2890787f533aadd103fe59c114daae14829e75926dcddbf"
+    },
+    {
+      "path": "app-icons/PacaAssets.xcassets/AppIcon.appiconset/icon_256x256.png",
+      "bytes": 44362,
+      "sha256": "e27a7b38405cf7c3f1069feb865e963ef06110ef342a540b0b6e429429a13d9f"
+    },
+    {
+      "path": "app-icons/PacaAssets.xcassets/AppIcon.appiconset/icon_256x256@2x.png",
+      "bytes": 179546,
+      "sha256": "2d1b7fd99b4d2fe9d8f28d2bddbc5fb8781c7a8de3e85302243b6f1cf4b96162"
+    },
+    {
+      "path": "app-icons/PacaAssets.xcassets/AppIcon.appiconset/icon_32x32.png",
+      "bytes": 1222,
+      "sha256": "702d6eb2bde67718a2890787f533aadd103fe59c114daae14829e75926dcddbf"
+    },
+    {
+      "path": "app-icons/PacaAssets.xcassets/AppIcon.appiconset/icon_32x32@2x.png",
+      "bytes": 3713,
+      "sha256": "ebdafef087806229975dc2090c84d5cf42842a751d341c997a6041d1a44399d1"
+    },
+    {
+      "path": "app-icons/PacaAssets.xcassets/AppIcon.appiconset/icon_512x512.png",
+      "bytes": 179546,
+      "sha256": "2d1b7fd99b4d2fe9d8f28d2bddbc5fb8781c7a8de3e85302243b6f1cf4b96162"
+    },
+    {
+      "path": "app-icons/PacaAssets.xcassets/AppIcon.appiconset/icon_512x512@2x.png",
+      "bytes": 682115,
+      "sha256": "a89a015c2dc367ef243d2690c28aa4e5a6f9449e7bda22a0d49ba70ec8074e72"
+    },
+    {
+      "path": "app-icons/PacaAssets.xcassets/Contents.json",
+      "bytes": 59,
+      "sha256": "a3393322cd7b4c1e0aa93bebe09abaa91ad891290d1225b0b5d10b5c6f216025"
+    },
+    {
+      "path": "app-icons/paca-app-icon-1024.png",
+      "bytes": 787791,
+      "sha256": "b282b4aa7284e553f7949299c7632cdf2d93eed32740d389123ac1a751def8fb"
+    },
+    {
+      "path": "app-icons/paca-app-icon-256.png",
+      "bytes": 58780,
+      "sha256": "01ea78435c7fa30c0cc6c79fd7a68b5b8d79f6109e7e114819076e4bc6ef12f9"
+    },
+    {
+      "path": "app-icons/paca-charcoal-1024.png",
+      "bytes": 810679,
+      "sha256": "3d21797c232ef4363302cbada4940ce2539182a3500a0a2745437e1ae3b7946a"
+    },
+    {
+      "path": "app-icons/paca-charcoal-128.png",
+      "bytes": 16763,
+      "sha256": "46461170b435d3ff3e17f22bdd7a9bf19e11ef916deae30dc3407bce28d7581c"
+    },
+    {
+      "path": "app-icons/paca-charcoal-16.png",
+      "bytes": 767,
+      "sha256": "873a061c9083712dab898e3fe8ff9b94465fd9c7402db56b6cf3ae8550051073"
+    },
+    {
+      "path": "app-icons/paca-charcoal-256.png",
+      "bytes": 56747,
+      "sha256": "c6284dec75b9a85f3f59c216622c877e6616f61513d13ea8733bfcd0b4cd5479"
+    },
+    {
+      "path": "app-icons/paca-charcoal-32.png",
+      "bytes": 1941,
+      "sha256": "92be084eab250d736db806db1c2cf2963fa495aca9b7d51999b9c1e28120bf57"
+    },
+    {
+      "path": "app-icons/paca-charcoal-512.png",
+      "bytes": 227152,
+      "sha256": "fdba6151f7ee096837ddf7c2dd12ed75cecf594ee08a3884426ecca3f293bd2b"
+    },
+    {
+      "path": "app-icons/paca-charcoal-64.png",
+      "bytes": 5520,
+      "sha256": "7125eba0ec3e5690f41c3e93006548aac0f43fd1beb8cc0428d4820e9c2d7ec9"
+    },
+    {
+      "path": "app-icons/paca-charcoal-macos.png",
+      "bytes": 645411,
+      "sha256": "865a6936f589ca97870f55e0c055df34deb361e69f18dc4d358d50efbb8741fc"
+    },
+    {
+      "path": "app-icons/paca-charcoal-macos.svg",
+      "bytes": 1400279,
+      "sha256": "421382ba18c47bbc538bd3432b46b22a89d125c3eacaf4f9ab43c32bba2c8a00"
+    },
+    {
+      "path": "app-icons/paca-lavender-1024.png",
+      "bytes": 855446,
+      "sha256": "f0c8ec9952d66bb7caa28a8490d5483ef435cb8e95e63f66699db6bff4048a21"
+    },
+    {
+      "path": "app-icons/paca-lavender-128.png",
+      "bytes": 18655,
+      "sha256": "423d4324428462ca23cb96545a3d846bbf847048ef416423c9feeb07084942ea"
+    },
+    {
+      "path": "app-icons/paca-lavender-16.png",
+      "bytes": 721,
+      "sha256": "aa2a9c4371f83fa1e828d282a174462b1e171003b6008265d960cd501c8b1327"
+    },
+    {
+      "path": "app-icons/paca-lavender-256.png",
+      "bytes": 63365,
+      "sha256": "f96a1ddb0cce12531bd7689f0dce91a97e2d7e91d997061ee89cb47e06b1d2e3"
+    },
+    {
+      "path": "app-icons/paca-lavender-32.png",
+      "bytes": 2064,
+      "sha256": "55a1772829053624a79d26060a8a1899beda3e967bceb83d5298593e00d1349d"
+    },
+    {
+      "path": "app-icons/paca-lavender-512.png",
+      "bytes": 238766,
+      "sha256": "79e9d8dfdce157923a7cd36cec42c6c1df7ed5e5622787cedce8a4f3b7444e54"
+    },
+    {
+      "path": "app-icons/paca-lavender-64.png",
+      "bytes": 6118,
+      "sha256": "20f9aa34e784e7aab44c428e761d1996d2510137d76567d232f6dd39b7fedea6"
+    },
+    {
+      "path": "app-icons/paca-lavender-macos.png",
+      "bytes": 682115,
+      "sha256": "a89a015c2dc367ef243d2690c28aa4e5a6f9449e7bda22a0d49ba70ec8074e72"
+    },
+    {
+      "path": "app-icons/paca-lavender-macos.svg",
+      "bytes": 1439975,
+      "sha256": "fb03e2da6a013a66990244aa13170e861fe9f5ecbb065596c7fd6013ff3af138"
+    },
+    {
+      "path": "app-icons/paca-mint-1024.png",
+      "bytes": 825888,
+      "sha256": "bf8d1c44416b850c5b7181cc9c0298b2d23378b1b98bec216d3b2dd62f353249"
+    },
+    {
+      "path": "app-icons/paca-mint-128.png",
+      "bytes": 18049,
+      "sha256": "e020cfa44a98fc6995bc145199ebb757b51381b01a602d56aef957642678bde5"
+    },
+    {
+      "path": "app-icons/paca-mint-16.png",
+      "bytes": 713,
+      "sha256": "3799a83270ea2727c6466944fe12edff55d77a7bb84c3b5f009384a5069290f7"
+    },
+    {
+      "path": "app-icons/paca-mint-256.png",
+      "bytes": 61656,
+      "sha256": "98bf1ec41220965d9f135e2c0a5a6876317aefc8f7ae23dd74be406a2ede07a8"
+    },
+    {
+      "path": "app-icons/paca-mint-32.png",
+      "bytes": 2010,
+      "sha256": "6bf9fdb31e00353614d2520402fc5df33004a905db615a6cde0ec58cd6668e39"
+    },
+    {
+      "path": "app-icons/paca-mint-512.png",
+      "bytes": 233208,
+      "sha256": "0c81250033acc878252316a0f97638824b470f20706661a48e7cf96481b66ffd"
+    },
+    {
+      "path": "app-icons/paca-mint-64.png",
+      "bytes": 5937,
+      "sha256": "29fda2d77a42389e7a216b3486c5d756e63e7c9538bde2c2e73002732f075a99"
+    },
+    {
+      "path": "app-icons/paca-mint-macos.png",
+      "bytes": 661527,
+      "sha256": "8b550466f12f635529ac2f1eccd6b655c921ea6dbfda51340ec588f8af06dd89"
+    },
+    {
+      "path": "app-icons/paca-mint-macos.svg",
+      "bytes": 1421887,
+      "sha256": "6bd694274ac75ab2720914d539390a4856f3f56c08bfe3b6c3ca669fe0856258"
+    },
+    {
+      "path": "fonts/ibm-plex-mono/IBMPlexMono-Medium.ttf",
+      "bytes": 136704,
+      "sha256": "a9b4c49bb299e05b5f6c481e7fb5e78943d2793249a0c8874ab574a2d1ea6755"
+    },
+    {
+      "path": "fonts/ibm-plex-mono/IBMPlexMono-Medium.woff2",
+      "bytes": 40152,
+      "sha256": "e094e6f79b01835097f8b463bc50cf5e9cf2106b5e3f9d035381af0a5bfe4f8c"
+    },
+    {
+      "path": "fonts/ibm-plex-mono/IBMPlexMono-Regular.ttf",
+      "bytes": 135580,
+      "sha256": "6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46"
+    },
+    {
+      "path": "fonts/ibm-plex-mono/IBMPlexMono-Regular.woff2",
+      "bytes": 39132,
+      "sha256": "66fdda129169989634a0a8b3fd06c57eb672b9e960a7663a207d3510e40d43ba"
+    },
+    {
+      "path": "fonts/ibm-plex-mono/OFL.txt",
+      "bytes": 4456,
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+    },
+    {
+      "path": "fonts/manrope/Manrope-400.ttf",
+      "bytes": 97584,
+      "sha256": "3e4a66707ee543207c00aaacdf80535aa820bce2d426dd7a2ea75ee130f9680f"
+    },
+    {
+      "path": "fonts/manrope/Manrope-600.ttf",
+      "bytes": 97692,
+      "sha256": "d41bec3ceea0712e0316ffc850f0de65ce0463d72b58b98134a17fb5ee0f83a9"
+    },
+    {
+      "path": "fonts/manrope/Manrope-800.ttf",
+      "bytes": 98164,
+      "sha256": "9593daba5980de9f59c52b295eee60e765052c82dc5e0772aaf4837403f137cc"
+    },
+    {
+      "path": "fonts/manrope/Manrope-Variable.ttf",
+      "bytes": 164700,
+      "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6"
+    },
+    {
+      "path": "fonts/manrope/Manrope-Variable.woff2",
+      "bytes": 53720,
+      "sha256": "289a363234b878d99654e4b0317c6418d42e2f474de7fd4243f499b83e67e547"
+    },
+    {
+      "path": "fonts/manrope/OFL.txt",
+      "bytes": 4387,
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+    },
+    {
+      "path": "guidelines/brand-guidelines.md",
+      "bytes": 5363,
+      "sha256": "ce40698cbe1fbefed36a24b7d5723b4ac223944c8f5d3ce2fe3d8aa5876c7f13"
+    },
+    {
+      "path": "guidelines/paca-brand-guide.pdf",
+      "bytes": 5291258,
+      "sha256": "af5b5f6302c344620414135dadcca8c70f79b67d5533838b69c72d5a31a47770"
+    },
+    {
+      "path": "logos/paca-lockup-cream.png",
+      "bytes": 215729,
+      "sha256": "e9abb3ad523bae04c28805fd521c9620715be9dfe76099864ae0ce84a6c12bf3"
+    },
+    {
+      "path": "logos/paca-lockup-cream.svg",
+      "bytes": 924672,
+      "sha256": "30ca0479c8b49a4f7b6ac77a336c6acc74b3e51ba67c486e876d651c1dd9da96"
+    },
+    {
+      "path": "logos/paca-lockup-ink.png",
+      "bytes": 216686,
+      "sha256": "c54dc9640b86d96ec3c07a827a1b36ddefdc322fee695909f041a72f487e656f"
+    },
+    {
+      "path": "logos/paca-lockup-ink.svg",
+      "bytes": 924672,
+      "sha256": "451aa26fd9972b9bc04ae717e48866e0979ab8b0e2197b868b37a5b45d844e74"
+    },
+    {
+      "path": "logos/paca-lockup-mono-cream.png",
+      "bytes": 41237,
+      "sha256": "acf7cea0b2cdc6be793945b42460de22f61faaee8b4506c48064bf1030cee57a"
+    },
+    {
+      "path": "logos/paca-lockup-mono-cream.svg",
+      "bytes": 3329,
+      "sha256": "dc54ebd4730bbe94d53efd6b390a0313244083221b7322cd45db94096e572991"
+    },
+    {
+      "path": "logos/paca-lockup-mono-ink.png",
+      "bytes": 42053,
+      "sha256": "4ce6213e4266ba0b5cb14869fee64a92613151fee630d418081b75c22d4643a9"
+    },
+    {
+      "path": "logos/paca-lockup-mono-ink.svg",
+      "bytes": 3329,
+      "sha256": "2e4d30d4faf8c6625bbbc532d37ba1f1105a86c3b5e2a337229b3567d9de1b7c"
+    },
+    {
+      "path": "logos/paca-stacked-cream.png",
+      "bytes": 376247,
+      "sha256": "1afbfbcadd7414371663f359889795e2680f45154f2492e63d1879d66df91cb5"
+    },
+    {
+      "path": "logos/paca-stacked-cream.svg",
+      "bytes": 924674,
+      "sha256": "fa80871c4efac0f99e6f6f28beef98244a9a07857942ae33ed5f616ff87bea30"
+    },
+    {
+      "path": "logos/paca-stacked-ink.png",
+      "bytes": 376624,
+      "sha256": "d903e4da7b35badf5fdabef1f53137c1f8cb4a8c8cf753125c0647a743be9423"
+    },
+    {
+      "path": "logos/paca-stacked-ink.svg",
+      "bytes": 924674,
+      "sha256": "a7557dbb06463103598d73008403518262a5f5256b0093f054ecf66502d14dc4"
+    },
+    {
+      "path": "logos/paca-wordmark-cream.png",
+      "bytes": 47079,
+      "sha256": "05a455469beb2bd05c02e4ee4328fb7fd9479556f28c89e5c13ff84fd8c3f19e"
+    },
+    {
+      "path": "logos/paca-wordmark-cream.svg",
+      "bytes": 2623,
+      "sha256": "b6d4cf2f3a85a895b9855f83f0a3c25ede75ca514d15d84b753dacd4651618e3"
+    },
+    {
+      "path": "logos/paca-wordmark-ink.png",
+      "bytes": 48182,
+      "sha256": "8f863388c06d2e305ab8fa1c14992e84bbda1208a7f630cdd639f6df04265ef1"
+    },
+    {
+      "path": "logos/paca-wordmark-ink.svg",
+      "bytes": 2623,
+      "sha256": "0e414aea017b99ab272d15abd4f3c0ba252d2b9301fa3211a15ceabbbb89f2fb"
+    },
+    {
+      "path": "logos/paca-wordmark-lavender.png",
+      "bytes": 49195,
+      "sha256": "1b00a3397ea9c86ef129d5ee92f51687263007f48524c913916613be50ccd0a1"
+    },
+    {
+      "path": "logos/paca-wordmark-lavender.svg",
+      "bytes": 2623,
+      "sha256": "2a1918d64d5c2dd5c4335100f3f3a2dfb2da939c64cc696d64f097b6ea9967db"
+    },
+    {
+      "path": "marks/paca-symbol-cream.svg",
+      "bytes": 643,
+      "sha256": "a7053705fcb7759928b78d90f97aa60c9744df6f8eb29a10023cdf4e5a6dcfba"
+    },
+    {
+      "path": "marks/paca-symbol-ink.svg",
+      "bytes": 643,
+      "sha256": "dbe20bb15d017a4a7ba526ed3ec594959d806884d387fb4c52275d4f15a92d1d"
+    },
+    {
+      "path": "marks/paca-symbol-white.svg",
+      "bytes": 643,
+      "sha256": "05e24b7c5731902afc6eed31671bd970e1926916fc4f32bcb5db1fc47c82dd89"
+    },
+    {
+      "path": "mascot/paca-mascot.png",
+      "bytes": 691397,
+      "sha256": "d3a43905a00cb276612cb77602ebcd2973c56064aa2626cda1aa90f261cc8b74"
+    },
+    {
+      "path": "mascot/paca-peeking-transparent.png",
+      "bytes": 707997,
+      "sha256": "20e36f03bed51f0c1cf836ad091552bae24334aac2a84805797fe8a53a887bcc"
+    },
+    {
+      "path": "originals/paca-app-icon-lavender.png",
+      "bytes": 1083566,
+      "sha256": "23025e5d4359582f3ad8716ab79b4cf2a5d27675c64761a3b3781a870968fdff"
+    },
+    {
+      "path": "originals/paca-mascot-transparent.png",
+      "bytes": 691397,
+      "sha256": "d3a43905a00cb276612cb77602ebcd2973c56064aa2626cda1aa90f261cc8b74"
+    },
+    {
+      "path": "originals/paca-peek-charcoal.png",
+      "bytes": 1049940,
+      "sha256": "206c215550fb915b9222bba54032852847391d06029671df9b83720f3d94073d"
+    },
+    {
+      "path": "originals/paca-peek-lavender.png",
+      "bytes": 1079710,
+      "sha256": "985fd7e808a5d0e860704f863f43d46dfef050d50dd8c624d58ae249939bdadc"
+    },
+    {
+      "path": "originals/paca-peek-mint.png",
+      "bytes": 1066144,
+      "sha256": "8b44a88e15f5c9da8b3c60ad4022935e1bdc6fa18c2a944dabbd1cd393583f25"
+    },
+    {
+      "path": "previews/brand-overview.png",
+      "bytes": 728621,
+      "sha256": "acf968798c86e440a8b102246b5eafb74623c2eac5fae66c11a792aeb4673004"
+    },
+    {
+      "path": "previews/brand-overview.svg",
+      "bytes": 4271635,
+      "sha256": "d4a5f916d3c4d0227dec2ef56a22749fbde743fe5daa76c4ea47998a174eddaf"
+    },
+    {
+      "path": "previews/toolbar-preview.png",
+      "bytes": 42166,
+      "sha256": "6d5e904f19554f1425ee09fe9109ed219b2469b1a09ce566c95d748a36f3b3e6"
+    },
+    {
+      "path": "previews/toolbar-preview.svg",
+      "bytes": 31449,
+      "sha256": "fbb624c15237319e42324ce54fb78095abd28870e5523896f82e3cd7621ea603"
+    },
+    {
+      "path": "scripts/build.mjs",
+      "bytes": 9133,
+      "sha256": "3026acafd5e4c2a55b37cf5fc4b038183607054ff1632327f5af9ae63dfabe9c"
+    },
+    {
+      "path": "scripts/guide.py",
+      "bytes": 10441,
+      "sha256": "a81b572984ebb552bdea6cbd9877e507200fbf2a8b62e24543dd9e571f99c102"
+    },
+    {
+      "path": "scripts/package.json",
+      "bytes": 160,
+      "sha256": "4b8ebb9a5122b45dbb43f8952d848c2d9c06a598949ac1de02e71b98a8108b5d"
+    },
+    {
+      "path": "scripts/prepare.py",
+      "bytes": 5184,
+      "sha256": "bcf04ccbeac27b48dec3654f4a8f81997f235e6430de8c2fd25b1ae93c8a9fa2"
+    },
+    {
+      "path": "scripts/requirements.txt",
+      "bytes": 61,
+      "sha256": "5b5299abf766b7b59f681e0c6d44a6f55bf0c7d97323712d17359205937aaca4"
+    },
+    {
+      "path": "scripts/validate.py",
+      "bytes": 4674,
+      "sha256": "a0217539aa6a52cea6064b512972249d16c94b0311144dafba27f83d408c2dd5"
+    },
+    {
+      "path": "social/paca-avatar-charcoal.png",
+      "bytes": 227152,
+      "sha256": "fdba6151f7ee096837ddf7c2dd12ed75cecf594ee08a3884426ecca3f293bd2b"
+    },
+    {
+      "path": "social/paca-avatar-lavender.png",
+      "bytes": 238766,
+      "sha256": "79e9d8dfdce157923a7cd36cec42c6c1df7ed5e5622787cedce8a4f3b7444e54"
+    },
+    {
+      "path": "social/paca-avatar-mint.png",
+      "bytes": 233208,
+      "sha256": "0c81250033acc878252316a0f97638824b470f20706661a48e7cf96481b66ffd"
+    },
+    {
+      "path": "social/paca-banner.png",
+      "bytes": 172983,
+      "sha256": "7dc8f954a35294448bb65d29af78f5166cefbca4d9a16f9fe02a4a25090332b8"
+    },
+    {
+      "path": "social/paca-banner.svg",
+      "bytes": 964417,
+      "sha256": "bf7c2047226f7348bc248d1769ec73f3cf6bda2a1d0655ce33ffcb4dd174f67b"
+    },
+    {
+      "path": "social/paca-open-graph.png",
+      "bytes": 251512,
+      "sha256": "027d6e47d919db7450f412b4ccb850ac7451fce1c55580a680ad4bc8471b72cc"
+    },
+    {
+      "path": "social/paca-open-graph.svg",
+      "bytes": 963116,
+      "sha256": "f6fa083444daedf09e88c96bd2aa0d0293939af4e05e075957cd6059f06d1c0f"
+    },
+    {
+      "path": "social/paca-square.png",
+      "bytes": 337314,
+      "sha256": "a05d25fa8b9b0d6480e96177b360975c2a55ef856c7b9e29929eda55f44fc47d"
+    },
+    {
+      "path": "social/paca-square.svg",
+      "bytes": 953272,
+      "sha256": "633ef140541a1398a95374657ff4b316221591d7d5006627cda6c13dd56bd11c"
+    },
+    {
+      "path": "sources/initial-prompts.txt",
+      "bytes": 3237,
+      "sha256": "3e91d1e1a8abcc19fdde9d0bb91226709eb76ac6628f99cf1aa672ecd58f7421"
+    },
+    {
+      "path": "sources/peeking-prompts.txt",
+      "bytes": 4654,
+      "sha256": "0232e50e49489e9471b314be1f383d3eac01a62dc704bd64a262e6e7db55d200"
+    },
+    {
+      "path": "sources/provenance.json",
+      "bytes": 1364,
+      "sha256": "1e2c1eaed669a78899ef328c122314b0ca1599d534295050deedd8e0708cfad8"
+    },
+    {
+      "path": "sources/symbol-path.txt",
+      "bytes": 497,
+      "sha256": "9b74219cce434ac6681e83e20d5367603395122e2ac31b32fcdf7c6823255681"
+    },
+    {
+      "path": "sources/transparent-peek-prompt.txt",
+      "bytes": 789,
+      "sha256": "4af5958ab21ce70a6f50f420fd0bf163101e7a0b1ce334960d3774d36be873cd"
+    },
+    {
+      "path": "sources/typeset.json",
+      "bytes": 58095,
+      "sha256": "3e1e3126e2653d7cccbc1141618eb71b06872dc38695404aaadd8f432cbc3873"
+    },
+    {
+      "path": "sources/validation.json",
+      "bytes": 606,
+      "sha256": "756b0b04ac6c4df55806b8c51be68c36e3ba919f1b1eb5aabe7b32a277c72207"
+    },
+    {
+      "path": "sources/wordmark-paths.json",
+      "bytes": 2580,
+      "sha256": "01597a573d925cdd5a360a2d46583d08d31fb4b07fd4368c2992f0707bcd9b27"
+    },
+    {
+      "path": "tokens/PacaBrand.swift",
+      "bytes": 1465,
+      "sha256": "f4656a395e4c2a13dc0a65263385ed782d27010055126a04324f5b33e3dc892c"
+    },
+    {
+      "path": "tokens/paca.css",
+      "bytes": 1536,
+      "sha256": "ecfb00632b51e01d20507ae5d4c8308893b69a4720474eb0dee6be726b208d5b"
+    },
+    {
+      "path": "tokens/palette.json",
+      "bytes": 406,
+      "sha256": "93dd4c5dc9ec206a2aa9003a628ce529f4371b10393ea532365468c8aafc6ed0"
+    },
+    {
+      "path": "toolbar/PacaTemplate.imageset/Contents.json",
+      "bytes": 267,
+      "sha256": "849683a6c6db9b022d3e5d1a2a30705ff86333abbbbf757f93fe484298402934"
+    },
+    {
+      "path": "toolbar/PacaTemplate.imageset/PacaTemplate.pdf",
+      "bytes": 1740,
+      "sha256": "1e5c7fa64b89d7435892bfde41e820159c247a464d8da9587479733bed31a708"
+    },
+    {
+      "path": "toolbar/paca-black-16.png",
+      "bytes": 311,
+      "sha256": "ce3aea9e8afcc7e2c7d9264455dc65daaa7ddad33c8029f4d3a2a8cd9b15a05f"
+    },
+    {
+      "path": "toolbar/paca-black-16@2x.png",
+      "bytes": 527,
+      "sha256": "43046347f227d4b338540926d7535f5dc59602dc26b4268955e4106f4199d878"
+    },
+    {
+      "path": "toolbar/paca-black-16@3x.png",
+      "bytes": 792,
+      "sha256": "889a6b8ad0fd6569f079bcd1d79cc4511dad4bfab305313f3859fe5049962b91"
+    },
+    {
+      "path": "toolbar/paca-black-18.png",
+      "bytes": 341,
+      "sha256": "f129778a0d0bc73adc3efaec36974bd106816297ae2053e84c84b3a291dfa3f4"
+    },
+    {
+      "path": "toolbar/paca-black-18@2x.png",
+      "bytes": 633,
+      "sha256": "dbe8c76ea774c63887c9d265690bcdcd402d9a29aeff13326f0109f55f23bdbf"
+    },
+    {
+      "path": "toolbar/paca-black-18@3x.png",
+      "bytes": 896,
+      "sha256": "071fef37e2fd635a3ad08a9198c5b15fc174facfaa6f2ce042fed5623bf49665"
+    },
+    {
+      "path": "toolbar/paca-black-20.png",
+      "bytes": 354,
+      "sha256": "da79d5f130ae206b0761dd9041211b991f91e3e505f7513d176c6d3c11f09807"
+    },
+    {
+      "path": "toolbar/paca-black-20@2x.png",
+      "bytes": 650,
+      "sha256": "a9c5a2a56c3a455ce0b7bd5cd1973b7a2439ef1c51668248f50d7b89bdba9fe3"
+    },
+    {
+      "path": "toolbar/paca-black-20@3x.png",
+      "bytes": 917,
+      "sha256": "000b0774b7addeeb63a45c74a635efc99f16df1ffab9438264a80054a884007b"
+    },
+    {
+      "path": "toolbar/paca-black-24.png",
+      "bytes": 438,
+      "sha256": "e46032e7557725d5f63b395a366196a06fa17020c25acac47912d8edd88b4adf"
+    },
+    {
+      "path": "toolbar/paca-black-24@2x.png",
+      "bytes": 792,
+      "sha256": "889a6b8ad0fd6569f079bcd1d79cc4511dad4bfab305313f3859fe5049962b91"
+    },
+    {
+      "path": "toolbar/paca-black-24@3x.png",
+      "bytes": 1189,
+      "sha256": "49ddd912b94c0c85a2484295856ffa1cf5f199cedc9a2a7e357a88698add2240"
+    },
+    {
+      "path": "toolbar/paca-black-32.png",
+      "bytes": 527,
+      "sha256": "43046347f227d4b338540926d7535f5dc59602dc26b4268955e4106f4199d878"
+    },
+    {
+      "path": "toolbar/paca-black-32@2x.png",
+      "bytes": 1043,
+      "sha256": "15a39cb1ee81bb8241b5454c2e4594f053390dcea0268053e02c8ad053722d8f"
+    },
+    {
+      "path": "toolbar/paca-black-32@3x.png",
+      "bytes": 1558,
+      "sha256": "aea55c453ed999bc8c54931f9bd2d9bd50709216db3319e57aa2eb5b772a9305"
+    },
+    {
+      "path": "toolbar/paca-template.svg",
+      "bytes": 634,
+      "sha256": "420d75a79da398108080f7a8b2a595a6238ba44289fb7a5cb1b833c7f50719f0"
+    },
+    {
+      "path": "toolbar/paca-white-16.png",
+      "bytes": 307,
+      "sha256": "9302721ec45d3e5e4651cd69aa0983ac2a01418ec8e5f1ca029a1e12674617ac"
+    },
+    {
+      "path": "toolbar/paca-white-16@2x.png",
+      "bytes": 524,
+      "sha256": "1e627501b9bdff2562d0d5d6a47bebd013365c5ea55fd60a89c4e9d893c2510c"
+    },
+    {
+      "path": "toolbar/paca-white-16@3x.png",
+      "bytes": 796,
+      "sha256": "c13e3f552b20be8951a008cd90dd8b79dd4768ce004e8405100417633b39cab3"
+    },
+    {
+      "path": "toolbar/paca-white-18.png",
+      "bytes": 337,
+      "sha256": "a9e63a70a8ba6b522e0d93369543a770922c5eb3840ae9a312540c9557b29f86"
+    },
+    {
+      "path": "toolbar/paca-white-18@2x.png",
+      "bytes": 635,
+      "sha256": "0a2cd17a50e18853b77d7609e0287f0eb820b1428b34f98a8a0d670b0888cff2"
+    },
+    {
+      "path": "toolbar/paca-white-18@3x.png",
+      "bytes": 896,
+      "sha256": "c8d8076f6379055945499b10d410587180f2bc7eee006a382892d5934f2bfab5"
+    },
+    {
+      "path": "toolbar/paca-white-20.png",
+      "bytes": 355,
+      "sha256": "d7640310587e74795a3b383dd9622258245c68331562ae10f01a216d3e2ac742"
+    },
+    {
+      "path": "toolbar/paca-white-20@2x.png",
+      "bytes": 648,
+      "sha256": "ae752c5791e9b59f8f42c09c35596c50e79a0c6639da9f5a7d76125aef5b9c22"
+    },
+    {
+      "path": "toolbar/paca-white-20@3x.png",
+      "bytes": 931,
+      "sha256": "67a3e03fcb68bba632df33b2ade67d80128c6f32b8098f2ebffc46642eec083f"
+    },
+    {
+      "path": "toolbar/paca-white-24.png",
+      "bytes": 438,
+      "sha256": "20d92eb864566ab35cd1e8b9cf1db7710185a1585d1a77c5ca37f3c448451b91"
+    },
+    {
+      "path": "toolbar/paca-white-24@2x.png",
+      "bytes": 796,
+      "sha256": "c13e3f552b20be8951a008cd90dd8b79dd4768ce004e8405100417633b39cab3"
+    },
+    {
+      "path": "toolbar/paca-white-24@3x.png",
+      "bytes": 1156,
+      "sha256": "10459d86ed190dd4dba3fa55713187cc01dce66855d9227b479b5c27746beeb1"
+    },
+    {
+      "path": "toolbar/paca-white-32.png",
+      "bytes": 524,
+      "sha256": "1e627501b9bdff2562d0d5d6a47bebd013365c5ea55fd60a89c4e9d893c2510c"
+    },
+    {
+      "path": "toolbar/paca-white-32@2x.png",
+      "bytes": 1015,
+      "sha256": "40c79c3654a1ab31b91966d4953824319254f5c87e5bfe1e502c5b85ab595913"
+    },
+    {
+      "path": "toolbar/paca-white-32@3x.png",
+      "bytes": 1527,
+      "sha256": "786e74e89fac8fed4423cf301a90795973cb07737bd0748949a03783e0e608f8"
+    },
+    {
+      "path": "web/apple-touch-icon.png",
+      "bytes": 30977,
+      "sha256": "727ab91fc1579aad3a80802f864b3732040dfe1d24815037c43ef1d1585fbbae"
+    },
+    {
+      "path": "web/favicon-16.png",
+      "bytes": 399,
+      "sha256": "e26f6cf82823dce56a2e99691b0df1cdeddd23b94662da06c46f5d4c62b879e7"
+    },
+    {
+      "path": "web/favicon-32.png",
+      "bytes": 724,
+      "sha256": "d2cfb8463b72535c592aae57fc30c8195fd17b266daf6782f98dedbaf58c92c0"
+    },
+    {
+      "path": "web/favicon-48.png",
+      "bytes": 1060,
+      "sha256": "a28b81c87cd8779a91d8f080663cf96093ce13bd85cb8945c9d363187ef9a8b3"
+    },
+    {
+      "path": "web/favicon.ico",
+      "bytes": 2237,
+      "sha256": "0eeca4f884ccf9269cad8c9fc9987e6d71dbe0c2a1ab97c95a1210b8dc0fe90e"
+    },
+    {
+      "path": "web/favicon.svg",
+      "bytes": 794,
+      "sha256": "c628f2d587224a7fd041434a5cf036cadc06600569cdca3b0932ac267ee63b99"
+    },
+    {
+      "path": "web/paca-192.png",
+      "bytes": 34229,
+      "sha256": "bfbaadb2e93c7475f74b9df68f56676bb9996956abd4fe2109b58543bcead51a"
+    },
+    {
+      "path": "web/paca-512.png",
+      "bytes": 238766,
+      "sha256": "79e9d8dfdce157923a7cd36cec42c6c1df7ed5e5622787cedce8a4f3b7444e54"
+    },
+    {
+      "path": "web/site.webmanifest",
+      "bytes": 385,
+      "sha256": "f7c7bb5bd9a5ec2578c16e0aa0680a29f9ec6e5116782ded1c64ea30ff75c942"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Paca",
+  "short_name": "Paca",
+  "icons": [
+    {
+      "src": "paca-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "paca-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#28262E",
+  "background_color": "#FAF8F4",
+  "display": "standalone"
+}
